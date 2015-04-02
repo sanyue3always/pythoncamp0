@@ -1,6 +1,4 @@
-# 0b codeskulptor
-
-##what is it &how to use it 
+# 0b codeskulptor:  What is it & How to use it 
 
 ##1 code skulptor 是什么？
 ###它是一个教学式的运行环境，在网络浏览器中直接创建交互式应用程序项目，分享代码，在困难时更易寻求帮助。
