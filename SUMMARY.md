@@ -8,4 +8,5 @@
    * [part2.2](./source/part2/1.md)
 * [结尾](./source/end.md)
 * [python学习记录](pythonxue_xi_ji_lu.md)
+* part3
 
