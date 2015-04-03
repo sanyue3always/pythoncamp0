@@ -1,6 +1,15 @@
 {
     "plugins": [
-        "disqus"
+        " disqus"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        " disqus": {
+            "plugins": [
+                " disqus"
+            ],
+            "pluginsConfig": {
+                "shortName": "<sanyue3always>"
+            }
+        }
+    }
 }
