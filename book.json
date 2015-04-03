@@ -1,7 +1,6 @@
 {
     "plugins": [
-        " disqus",
-        "disqu"
+        " disqus"
     ],
     "pluginsConfig": {
         " disqus": {
